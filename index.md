@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title:  Welcome
+title:  Ketcat
 cover:  true
 selected_posts:
   - study/_posts/2022-01-13-first-post.md
@@ -10,6 +10,10 @@ featured: false
 
 <!--author-->
 
-연세대학교에서 물리학과 수학을 복수전공하고 있습니다.
+# About
+
+물리 수학 복수전공으로 학부 4학년에 재학 중입니다.  
+
+# Selected Posts
 
 <!--posts-->

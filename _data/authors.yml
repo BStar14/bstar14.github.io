@@ -8,11 +8,13 @@ BStar:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    BoSeong Kim
-
-    Major in Physics & Mathematics  
-    Yonsei University  
-    50 Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea
+    **BoSeong Kim**
+    {:.lead}  
+    Please find my CV [here](https://drive.google.com/file/d/1NjkpwHqBlhp7Nw42NlMw_-Wp9_XUtwmo/view?usp=sharing)
+    
+    > Undergraduate student in Physics & Mathematics  
+    > Yonsei University  
+    > 50 Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea
 
   # This photo will be used in the about section
   picture:
