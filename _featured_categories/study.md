@@ -1,6 +1,7 @@
 ---
 layout: grid
-title: Study
+title:  Study
+slug:   study
 description: >
   공부기록
 ---
