@@ -3,17 +3,17 @@ layout: welcome
 title:  Ketcat
 cover:  true
 selected_posts:
-  - study/_posts/2022-01-13-first-post.md
+  - study/_posts/2022-01-14-first-post.md
 posts_page: /blog/
 featured: false
 ---
 
-<!--author-->
+Blog for Quantum Computation and Quantum Information
 
 # About
-
-물리 수학 복수전공으로 학부 4학년에 재학 중입니다.  
+---
+<!--author-->
 
 # Selected Posts
-
+---
 <!--posts-->
