@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 BStar:
-  name:              BoSeong Kim
+  name:              Boseong Kim
   email:             boseong14@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    **BoSeong Kim**
+    **Boseong Kim**
     {:.lead}  
     Please find my CV [here](https://drive.google.com/file/d/1NjkpwHqBlhp7Nw42NlMw_-Wp9_XUtwmo/view?usp=sharing)
     
@@ -28,7 +28,7 @@ BStar:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    facebook:        BoSeong.Kim.1114
+    facebook:        boseong14
     twitter:         BStar1114
     github:          BStar14
     email:           boseong14@gmail.com

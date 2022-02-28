@@ -41,7 +41,7 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 BStar:
   # Used by `jekyll-feed`:
-  name:                BoSeong Kim
+  name:                Boseong Kim
   email:               boseong14@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
