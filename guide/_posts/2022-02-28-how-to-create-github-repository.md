@@ -11,7 +11,7 @@ Repository는 파일을 저장 및 관리하는 저장소입니다.
 GitHub repository에서는 파일의 단순 저장 뿐만 아니라 Git의 버전 관리 시스템부터 issue, project, wiki 등의 다양한 기능도 지원하고 있습니다.
 
 GitHub에 파일을 올리기 위해서는 우선 이 repository가 있어야 합니다.  
-만약 자신의 repository가 아니라 다른 사람의 repository에서 작업을 하고 싶다면 다음 게시물 [#GitHub에서 다른 사람과 함께 작업하기](2022-03-01-how-to-collaborate-with-others-on-github)를 참조하세요.
+만약 자신의 repository가 아니라 다른 사람의 repository에서 작업을 하고 싶다면 다음 게시물 [#GitHub에서 다른 사람과 함께 작업하기](2022-03-24-how-to-collaborate-with-others-on-github)를 참조하세요.
 
 ---
 ## New repository
@@ -49,4 +49,4 @@ GitHub에 파일을 올리기 위해서는 우선 이 repository가 있어야 �
 이제 우리는 이 repository를 이용해 파일을 올리고, 공동작업을 수행할 것입니다.
 
 GitHub에 파일을 올리는 방법은 [#곧 올릴 포스트]()  
-GitHub에서 공동작업을 수행하기 위한 방법은 [#GitHub에서 다른 사람과 함께 작업하기](2022-03-01-how-to-collaborate-with-others-on-github)를 확인해주세요!
+GitHub에서 공동작업을 수행하기 위한 방법은 [#GitHub에서 다른 사람과 함께 작업하기](2022-03-24-how-to-collaborate-with-others-on-github)를 확인해주세요!
