@@ -3,7 +3,7 @@ layout: post
 title: GitHub 시작하기
 description: >
   GitHub은 가장 인기 있는 오픈 소스 코드 저장소 호스팅 서비스입니다.
-image: /assets/img/blog/GitHub_thumbnail.png
+image: /assets/img/blog/GitHub-thumbnail.png
 sitemap: false
 ---
 

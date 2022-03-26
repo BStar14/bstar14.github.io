@@ -3,7 +3,7 @@ layout: post
 title: GitHub repository 생성하기
 description: >
   GitHub repository를 생성해봅시다.
-image: /assets/img/blog/GitHub_thumbnail.png
+image: /assets/img/blog/GitHub-thumbnail.png
 sitemap: false
 ---
 
