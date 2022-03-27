@@ -4,6 +4,8 @@ title: GitHub repository 생성하기
 description: >
   GitHub repository를 생성해봅시다.
 image: /assets/img/blog/GitHub-thumbnail.png
+date: 2022-02-28 22:00:00 +0900
+last_modified_at: 2022-03-27 15:00:00 +0900
 sitemap: false
 ---
 

@@ -4,6 +4,8 @@ title: GitHub 시작하기
 description: >
   GitHub은 가장 인기 있는 오픈 소스 코드 저장소 호스팅 서비스입니다.
 image: /assets/img/blog/GitHub-thumbnail.png
+date: 2022-02-22 22:00:00 +0900
+last_modified_at: 2022-03-27 15:00:00 +0900
 sitemap: false
 ---
 

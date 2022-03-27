@@ -4,6 +4,8 @@ title: GitHub에서 다른 사람과 함께 작업하기
 description: >
   GitHub에서 다른 사람과 함께 작업하는 방법에는 collaborator, organization, fork & pull 방법이 있습니다.
 image: /assets/img/blog/GitHub-thumbnail.png
+date: 2022-03-24 11:00:00 +0900
+last_modified_at: 2022-03-27 15:00:00 +0900
 sitemap: false
 ---
 
