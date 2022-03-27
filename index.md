@@ -3,7 +3,8 @@ layout: welcome
 title:  Ketcat
 cover:  true
 selected_posts:
-  - study/_posts/2022-01-14-first-post.md
+  - guide/_posts/2022-03-24-how-to-collaborate-with-others-on-github.md
+  - guide/_posts/2022-03-27-how-to-install-git.md
 posts_page: /blog/
 featured: false
 ---
