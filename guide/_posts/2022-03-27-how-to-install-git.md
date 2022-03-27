@@ -7,7 +7,7 @@ image: /assets/img/blog/VSC-and-git-thumbnail.png
 sitemap: false
 ---
 
-GitHub을 사용하겠다는 것은 결국 Git을 사용하겠다는 말입니다.
+GitHub을 사용하겠다는 말은 결국 Git을 사용해야 한다는 말으로 돌아옵니다.
 
 인터넷 상에서 사람들은 여러 경로로 GitHub 사이트를 접하지만, 정작 Git이라는 프로그램에 대해서는 생소하게 느끼는 경우도 많습니다.
 
