@@ -3,7 +3,7 @@ layout: post
 title: Git 설치하기
 description: >
   Git을 Visual Studio Code와 연동하여 설치해봅시다.
-image: /assets/img/blog/VSC-and-git-thumbnail.png
+image: /assets/img/blog/VSC-git-Hub-thumbnail.png
 sitemap: false
 ---
 

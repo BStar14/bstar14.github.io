@@ -3,7 +3,7 @@ layout: post
 title: Visual Studio Code 설치하기
 description: >
   Visual Studio Code는 프로그래밍 뿐만 아니라 git의 다양한 기능을 간편하게 사용하는 데에도 좋은 툴입니다.
-image: /assets/img/blog/VSC-and-git-thumbnail.png
+image: /assets/img/blog/VSC-git-Hub-thumbnail.png
 sitemap: false
 ---
 

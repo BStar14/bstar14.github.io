@@ -3,7 +3,7 @@ layout: post
 title: Git 시작하기
 description: >
   Git은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 분산 버전 관리 시스템입니다. (위키백과)
-image: /assets/img/blog/VSC-and-git-thumbnail.png
+image: /assets/img/blog/VSC-git-Hub-thumbnail.png
 sitemap: false
 ---
 
