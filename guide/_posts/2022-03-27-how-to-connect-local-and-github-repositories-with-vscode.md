@@ -63,7 +63,7 @@ URL을 입력할 수 있는 박스가 뜨면 아까 복사해뒀던 URL을 붙�
 
 Clone from URL을 선택해주세요!
 
-![](/assets/img/blog/2022-03-27-how-to-connect-local-and-github-repositories-with-vscode-05.jpg)
+![](/assets/img/blog/2022-03-27-how-to-connect-local-and-github-repositories-with-vscode-05.jpg){:width="600"}
 
 해당 repository를 어느 폴더로 다운로드 받을지 선택하는 대화창이 뜹니다.
 

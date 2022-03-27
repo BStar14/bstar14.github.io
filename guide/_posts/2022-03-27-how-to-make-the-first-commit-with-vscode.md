@@ -87,13 +87,13 @@ Commit을 통해 등록된 변경내역은 push를 통해 GitHub repository에 �
 
 Source Control의 ... 아이콘을 클릭하고 나타난 메뉴에서 push를 클릭합니다.
 
-![](/assets/img/blog/2022-03-27-how-to-make-the-first-commit-with-vscode-08.jpg)
+![](/assets/img/blog/2022-03-27-how-to-make-the-first-commit-with-vscode-08.jpg){:width="400"}
 
 처음 push를 할 때에는 위와 같이 GitHub에 로그인하라는 창이 나타납니다.
 
 Sign in with your browser 버튼을 누르고 나타나는 창에서 GitHub에 로그인해주세요.
 
-![](/assets/img/blog/2022-03-27-how-to-make-the-first-commit-with-vscode-09.jpg)
+![](/assets/img/blog/2022-03-27-how-to-make-the-first-commit-with-vscode-09.jpg){:width="600"}
 
 GitHub에 한 번 로그인 하고나면 이후에는 로그인을 다시 요구하지 않습니다.
 
