@@ -5,7 +5,7 @@ description: >
   GitHub repository를 생성해봅시다.
 image: /assets/img/blog/GitHub-thumbnail.png
 date: 2022-02-28 22:00:00 +0900
-last_modified_at: 2022-03-27 15:00:00 +0900
+last_modified_at: 2022-03-28 22:00:00 +0900
 sitemap: false
 ---
 
@@ -13,13 +13,13 @@ Repository는 파일을 저장 및 관리하는 저장소입니다.
 GitHub repository에서는 파일의 단순 저장 뿐만 아니라 Git의 버전 관리 시스템부터 issue, project, wiki 등의 다양한 기능도 지원하고 있습니다.
 
 GitHub에 파일을 올리기 위해서는 우선 이 repository가 있어야 합니다.  
-만약 자신의 repository가 아니라 다른 사람의 repository에서 작업을 하고 싶다면 다음 게시물 [#GitHub에서 다른 사람과 함께 작업하기](2022-03-24-how-to-collaborate-with-others-on-github)를 참조하세요.
+만약 자신의 repository가 아니라 다른 사람의 repository에서 작업을 하고 싶다면 다음 게시물 [#GitHub에서 다른 사람과 함께 작업하기](../how-to-collaborate-with-others-on-github)를 참조하세요.
 
 ---
 ## New repository
 ---
 
-지난 게시물 [#GitHub 시작하기](2022-02-22-introducntion-to-github)를 따라 GitHub 회원가입을 완료하셨다면 GitHub 메인 페이지에서 아래 화면을 보실 수 있을 것입니다.  
+지난 게시물 [#GitHub 시작하기](../introducntion-to-github)를 따라 GitHub 회원가입을 완료하셨다면 GitHub 메인 페이지에서 아래 화면을 보실 수 있을 것입니다.  
 [https://github.com/](https://github.com/)
 
 ![](/assets/img/blog/2022-02-28-how-to-create-github-repository-01.jpg)
@@ -51,4 +51,4 @@ GitHub에 파일을 올리기 위해서는 우선 이 repository가 있어야 �
 이제 우리는 이 repository를 이용해 파일을 올리고, 공동작업을 수행할 것입니다.
 
 GitHub에 파일을 올리는 방법은 [#곧 올릴 포스트]()  
-GitHub에서 공동작업을 수행하기 위한 방법은 [#GitHub에서 다른 사람과 함께 작업하기](2022-03-24-how-to-collaborate-with-others-on-github)를 확인해주세요!
+GitHub에서 공동작업을 수행하기 위한 방법은 [#GitHub에서 다른 사람과 함께 작업하기](../how-to-collaborate-with-others-on-github)를 확인해주세요!

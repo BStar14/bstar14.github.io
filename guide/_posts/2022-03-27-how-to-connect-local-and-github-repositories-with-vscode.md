@@ -5,15 +5,15 @@ description: >
   내 컴퓨터의 폴더와 GitHub repository를 Visual Studio Code를 이용해 연결해봅시다. Clone을 이용하면 복잡한 절차 없이 빠르게 컴퓨터와 GitHub을 연결할 수 있습니다.
 image: /assets/img/blog/VSC-git-Hub-thumbnail.png
 date: 2022-03-27 17:20:00 +0900
-last_modified_at: 2022-03-27 17:20:00 +0900
+last_modified_at: 2022-03-28 22:00:00 +0900
 sitemap: false
 ---
 
-[GitHub 회원가입](2022-02-22-introducntion-to-github), [Visual Studio Code 설치](2022-03-26-how-to-install-visual-studio-code), [Git 설치](2022-03-27-how-to-install-git)까지 완료하셨다면 드디어 Git, GitHub을 사용하기 위한 준비가 모두 끝났습니다!
+[GitHub 회원가입](../introducntion-to-github), [Visual Studio Code 설치](../how-to-install-visual-studio-code), [Git 설치](../how-to-install-git)까지 완료하셨다면 드디어 Git, GitHub을 사용하기 위한 준비가 모두 끝났습니다!
 
 이제 본격적으로 GitHub 이용을 시작해보려고 합니다.
 
-예시로 사용할 repository는 지난번에 만든 "example" repository입니다. Repository를 만드는 방법은 [GitHub repository 생성하기](2022-02-28-how-to-create-github-repository) 포스트를 참고해주세요!
+예시로 사용할 repository는 지난번에 만든 "example" repository입니다. Repository를 만드는 방법은 [GitHub repository 생성하기](../how-to-create-github-repository) 포스트를 참고해주세요!
 
 ![](/assets/img/blog/2022-03-27-how-to-connect-local-and-github-repositories-with-vscode-01.jpg)
 
@@ -47,7 +47,7 @@ https://github.com/UserID/repository
 
 저는 내 문서에 GitHub 폴더를 하나 만들어봤습니다. 해당 폴더에서 옵션 메뉴를 열어보시면 "Open with Code" 또는 "Code(으)로 열기" action이 있는 것을 찾을 수 있을 것입니다.
 
-만약 VS Code를 설치했는데 해당 action이 나오지 않는다면 VS Code 설치 시 옵션을 선택하지 않으셨을 수 있습니다. [Visual Studio Code 설치하기](2022-03-26-how-to-install-visual-studio-code) 포스트를 다시 확인해보세요.
+만약 VS Code를 설치했는데 해당 action이 나오지 않는다면 VS Code 설치 시 옵션을 선택하지 않으셨을 수 있습니다. [Visual Studio Code 설치하기](../how-to-install-visual-studio-code) 포스트를 다시 확인해보세요.
 
 문제없이 action을 찾으셨다면 그대로 클릭해주시면 됩니다!
 
