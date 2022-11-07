@@ -25,10 +25,10 @@ title:                 BStar
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  처음 걸음마를 떼는 대학생입니다.
+  UCL MSc QT / Qiskit Advocate
 
 # A shorter description for the sidebar.
-tagline:               처음 걸음마를 떼는 대학생입니다.
+tagline:               UCL MSc QT / Qiskit Advocate
 
 # A list of keywords for your blog
 keywords:              []
